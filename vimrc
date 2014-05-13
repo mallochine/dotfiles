@@ -1,8 +1,3 @@
-" This includes the bashrc distributed by 98-172
-" Great Practical Ideas for Computer Scientists
-source ~/.vimrc_gpi
-
-" Add your own changes below...
 set et ts=2 sts=2 sw=2
 
 if exists('+colorcolumn')
